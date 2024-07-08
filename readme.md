@@ -1,0 +1,1 @@
+SIJATER adalah sistem inovatif yang membantu pemerintah kota mengelola dan memantau kondisi serta masalah jalan secara efisien. Dengan SIJATER, data jalan dapat diakses dengan mudah, pelaporan dan penanganan masalah menjadi lebih cepat, serta transparansi proses perbaikan jalan meningkat, sehingga kualitas infrastruktur jalan kota dapat terus ditingkatkan.
