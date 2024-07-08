@@ -1,0 +1,16 @@
+.navbar-brand img {
+  height: 40px; /* Atur tinggi logo sesuai kebutuhan Anda */
+  width: auto; /* Pertahankan rasio aspek */
+}
+
+.bg-sidebar {
+  background-color: #113eae;
+}
+
+.bg-main {
+  background-color: #f0f2f9;
+}
+
+.bg-header {
+  background-color: #285fee;
+}

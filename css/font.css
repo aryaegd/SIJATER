@@ -1,0 +1,44 @@
+/* Import Font Space Grotesk SemiBold */
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('fonts/SpaceGrotesk-SemiBold.ttf') format('truetype');
+  font-weight: 600; /* SemiBold */
+  font-style: normal;
+}
+
+/* Import Font Space Grotesk Regular */
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url('fonts/SpaceGrotesk-Regular.ttf') format('truetype');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+}
+
+/* Import Font DM Sans Medium */
+@font-face {
+  font-family: 'DM Sans';
+  src: url('fonts/DMSans-Medium.ttf') format('truetype');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+}
+
+/* DM Sans Medium */
+.dm-sans-medium {
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Space Grotesk SemiBold */
+.space-grotesk-semi-bold {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Space Grotesk Regular */
+.space-grotesk-regular {
+  font-family: 'Space Grotesk', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

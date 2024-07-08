@@ -1,0 +1,45 @@
+.sb-sidenav-lightt {
+  background-color: #f8f9fa;
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .sb-sidenav-menuu-headingg {
+  color: #adb5bd;
+  padding: 0.5rem 1rem; /* Tambahkan padding untuk memberikan ruang lebih */
+  font-size: 1rem; /* Sesuaikan ukuran font */
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk {
+  display: flex;
+  align-items: center;
+  padding: 1rem 1.5rem; /* Sesuaikan padding agar lebih nyaman */
+  color: #003870;
+  font-weight: 500;
+  border: 2px solid transparent; /* Tambahkan border transparan untuk menstabilkan ukuran elemen */
+  border-radius: 0.375rem;
+  transition: border-color 0.3s ease, background-color 0.3s ease; /* Tambahkan efek transisi */
+  margin-bottom: 0.5rem; /* Tambahkan margin bawah untuk memberikan jarak antar elemen */
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk .sb-nav-linkk-iconn {
+  margin-right: 0.5rem;
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk .sb-sidenav-collapse-arrowww {
+  color: #adb5bd;
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk:hover {
+  background-color: #e9ecef;
+  border-color: #007bff; /* Warna biru untuk border saat dihover */
+  color: #007bff;
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk.active {
+  background-color: #007bff; /* Warna biru */
+  color: #ffffff; /* Warna teks putih */
+}
+.sb-sidenav-lightt .sb-sidenav-menuu .nav-linkk.active .sb-nav-linkk-iconn {
+  color: #ffffff; /* Warna ikon putih */
+}
+.sb-sidenav-lightt .sb-sidenav-footerr {
+  background-color: #e9ecef;
+  text-align: left; /* Sesuaikan tata letak teks */
+  position: absolute; /* Pastikan footer berada di posisi tetap di bawah */
+  bottom: 0;
+  width: 100%;
+  padding: 1rem; /* Tambahkan padding agar lebih nyaman */
+}
